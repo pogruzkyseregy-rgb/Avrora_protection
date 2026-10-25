@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AvrorA Protection"
+rootProject.name = "avrora-protection"
 include(":app")
